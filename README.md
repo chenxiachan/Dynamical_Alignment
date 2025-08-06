@@ -1,8 +1,10 @@
-# Dynamical_Alignment
+# Dynamical Alignment
 
 This repository contains the official code and experimental results for the paper "Dynamical Alignment: A Principle for Adaptive Neural Computation". We propose that a neural network's computational capabilities are not solely determined by its static architecture but can be dynamically sculpted by the temporal dynamics of its input signals.
 
+
 <img width="2034" height="930" alt="GA_" src="https://github.com/user-attachments/assets/4d535468-2752-4885-863c-7324184b140b" />
+
 
 Our contributions are:
 
