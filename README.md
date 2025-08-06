@@ -32,7 +32,7 @@ D:.
 │   └── 1_Result                            # Results demonstrating bimodal optimization and phase transitions
 ├── 4_Fig6                                  # Section 4.2: Mechanisms of Bimodal Neural Computation
 │   ├── 0_Code                              # Code for analyzing internal network dynamics and robustness
-│   └── 1_D4                                # Code and saved models for timescale alignment analysis
+│   └── 1_D4                                # Code and saved models for theoretical analysis support from Appendix D.4
 └── 5_Fig7&8&9                              # Section 5: Universality and Scalability of Dynamical Alignment
     ├── 1_TinyImagenet                      # Section 5.1: Scalability in deep learning (ResNet-18)
     ├── 2_Reinforcement_Learning            # Section 5.2: Strategic Advantages in dynamic decision-making (CartPole)
@@ -58,14 +58,6 @@ To set up the environment and run the experiments, follow these steps:
     conda create --name da_snn python=3.8
     conda activate da_snn
     ```
-
-3.  **Install dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-    *(Note: The `requirements.txt` file is not provided in your code snippets, but is a standard practice. You will need to create one based on the libraries used, such as `torch`, `snntorch`, `numpy`, `scipy`, `pandas`, `matplotlib`, `seaborn`, `umap-learn`, `numba`, and `scikit-learn`.)*
 
 ### Running the Experiments
 
