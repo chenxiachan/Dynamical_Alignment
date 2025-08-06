@@ -1,0 +1,90 @@
+[
+  {
+    "epoch": 0,
+    "train_loss": 2.3077654060832957,
+    "train_acc": 9.82620320855615,
+    "test_loss": 2.3091959184215916,
+    "test_acc": 10.181451612903226,
+    "epoch_spike_count": 120858.0
+  },
+  {
+    "epoch": 1,
+    "train_loss": 2.307026330162497,
+    "train_acc": 9.809491978609625,
+    "test_loss": 2.3083348658777054,
+    "test_acc": 10.181451612903226,
+    "epoch_spike_count": 191332.0
+  },
+  {
+    "epoch": 2,
+    "train_loss": 2.3002547465543697,
+    "train_acc": 9.809491978609625,
+    "test_loss": 2.227635168260144,
+    "test_acc": 10.181451612903226,
+    "epoch_spike_count": 453258.0
+  },
+  {
+    "epoch": 3,
+    "train_loss": 1.7148493439118493,
+    "train_acc": 50.20053475935829,
+    "test_loss": 1.187985893218748,
+    "test_acc": 73.79032258064517,
+    "epoch_spike_count": 2136642.0
+  },
+  {
+    "epoch": 4,
+    "train_loss": 1.0363286245952954,
+    "train_acc": 82.13569518716578,
+    "test_loss": 0.8916160906514814,
+    "test_acc": 86.18951612903226,
+    "epoch_spike_count": 3169209.0
+  },
+  {
+    "epoch": 5,
+    "train_loss": 0.8923705717459082,
+    "train_acc": 86.29679144385027,
+    "test_loss": 0.8019971539897304,
+    "test_acc": 88.40725806451613,
+    "epoch_spike_count": 3424406.0
+  },
+  {
+    "epoch": 6,
+    "train_loss": 0.8201341887208867,
+    "train_acc": 87.149064171123,
+    "test_loss": 0.7619442324484548,
+    "test_acc": 87.3991935483871,
+    "epoch_spike_count": 3591278.0
+  },
+  {
+    "epoch": 7,
+    "train_loss": 0.7817448748943002,
+    "train_acc": 87.04879679144385,
+    "test_loss": 0.7289112094909914,
+    "test_acc": 88.00403225806451,
+    "epoch_spike_count": 3717224.0
+  },
+  {
+    "epoch": 8,
+    "train_loss": 0.7498279674486681,
+    "train_acc": 87.03208556149733,
+    "test_loss": 0.7027908909705377,
+    "test_acc": 87.70161290322581,
+    "epoch_spike_count": 3803424.0
+  },
+  {
+    "epoch": 9,
+    "train_loss": 0.7257754979605343,
+    "train_acc": 86.96524064171123,
+    "test_loss": 0.6709934098105277,
+    "test_acc": 87.29838709677419,
+    "epoch_spike_count": 3922094.0
+  },
+  {
+    "epoch": 10,
+    "train_loss": 0.6822865955969867,
+    "train_acc": 88.00133689839572,
+    "test_loss": 0.6238709390163422,
+    "test_acc": 88.30645161290323,
+    "epoch_spike_count": 4084173.0
+  }
+]

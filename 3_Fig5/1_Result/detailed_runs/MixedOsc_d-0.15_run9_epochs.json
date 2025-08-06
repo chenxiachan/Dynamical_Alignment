@@ -1,0 +1,82 @@
+[
+  {
+    "epoch": 0,
+    "train_loss": 2.261244629793626,
+    "train_acc": 14.254679144385026,
+    "test_loss": 1.9941735498366817,
+    "test_acc": 45.766129032258064,
+    "epoch_spike_count": 1691802.0
+  },
+  {
+    "epoch": 1,
+    "train_loss": 1.6407422617794996,
+    "train_acc": 63.11831550802139,
+    "test_loss": 1.365640982504814,
+    "test_acc": 75.70564516129032,
+    "epoch_spike_count": 5883158.0
+  },
+  {
+    "epoch": 2,
+    "train_loss": 1.2568906246022107,
+    "train_acc": 81.70120320855615,
+    "test_loss": 1.172929956066993,
+    "test_acc": 80.24193548387096,
+    "epoch_spike_count": 8345507.0
+  },
+  {
+    "epoch": 3,
+    "train_loss": 1.1695979310866984,
+    "train_acc": 85.92914438502673,
+    "test_loss": 1.1335581887152888,
+    "test_acc": 87.5,
+    "epoch_spike_count": 9056224.0
+  },
+  {
+    "epoch": 4,
+    "train_loss": 1.1389495070605355,
+    "train_acc": 88.48596256684492,
+    "test_loss": 1.1124940264609553,
+    "test_acc": 90.82661290322581,
+    "epoch_spike_count": 9375390.0
+  },
+  {
+    "epoch": 5,
+    "train_loss": 1.1267405260692944,
+    "train_acc": 89.7894385026738,
+    "test_loss": 1.1054611398327736,
+    "test_acc": 90.02016129032258,
+    "epoch_spike_count": 9595280.0
+  },
+  {
+    "epoch": 6,
+    "train_loss": 1.1226636372148033,
+    "train_acc": 90.05681818181819,
+    "test_loss": 1.0983435338543308,
+    "test_acc": 90.7258064516129,
+    "epoch_spike_count": 9823879.0
+  },
+  {
+    "epoch": 7,
+    "train_loss": 1.1129068783260285,
+    "train_acc": 90.02339572192513,
+    "test_loss": 1.0748197743969579,
+    "test_acc": 90.22177419354838,
+    "epoch_spike_count": 10084437.0
+  },
+  {
+    "epoch": 8,
+    "train_loss": 1.0505450750417251,
+    "train_acc": 89.77272727272727,
+    "test_loss": 0.9743847846984863,
+    "test_acc": 88.00403225806451,
+    "epoch_spike_count": 10701870.0
+  },
+  {
+    "epoch": 9,
+    "train_loss": 0.9537015793157771,
+    "train_acc": 90.50802139037434,
+    "test_loss": 0.8808005894384077,
+    "test_acc": 90.625,
+    "epoch_spike_count": 11307098.0
+  }
+]

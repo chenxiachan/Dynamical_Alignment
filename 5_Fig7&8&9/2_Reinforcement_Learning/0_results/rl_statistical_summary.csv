@@ -1,0 +1,7 @@
+,,avg_reward_last_100_ep,avg_reward_last_100_ep,avg_reward_last_100_ep,max_reward_achieved,max_reward_achieved,avg_spikes_last_100_ep,avg_spikes_last_100_ep,solved_at_episode
+,,mean,std,count,mean,std,mean,std,<lambda>
+agent_type,mode_name,,,,,,,,
+ANN,ANN_Baseline,291.02,130.36,30,496.03,21.73,0.0,0.0,2
+SNN,SNN_Dissipative,397.8,72.81,30,500.0,0.0,15655.24,4167.05,6
+SNN,SNN_Expansive,328.51,125.69,30,460.1,126.61,57274.89,22657.05,7
+SNN,SNN_Tough,358.24,81.21,30,496.93,12.32,16293.47,4960.07,1

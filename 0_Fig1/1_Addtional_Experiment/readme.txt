@@ -1,0 +1,3 @@
+The core objective of this additional experiment is to isolate and evaluate the role of UMAP preprocessing in various SNN encoding schemes. The original study demonstrated that our novel "Lorenz-SNN" model achieved state-of-the-art performance by combining UMAP dimensionality reduction with dynamic encoding via the Lorenz system.
+
+This controlled experiment aims to prove that the performance gains are not merely a result of the UMAP step. To do this, we apply the same UMAP preprocessing (reducing data to 7 dimensions) to a range of conventional SNN encoding methods (Rate, Latency, TTFS, Phase, Burst).

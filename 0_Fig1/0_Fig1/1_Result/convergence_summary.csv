@@ -1,0 +1,12 @@
+Experiment,Mean Epochs to Converge,Std Dev,Min,Max
+Default-SNN,0.0,0.0,0,0
+Rate-SNN,0.0,0.0,0,0
+Phase-SNN,0.1,0.30000000000000004,0,1
+Latency-SNN,0.0,0.0,0,0
+TTFS-SNN,0.0,0.0,0,0
+Delta-SNN,0.0,0.0,0,0
+Burst-SNN,0.0,0.0,0,0
+Lorenz-SNN,0.0,0.0,0,0
+Lorenz-ANN,1.4,0.48989794855663565,1,2
+Umap-ANN,0.0,0.0,0,0
+Default-ANN,0.0,0.0,0,0

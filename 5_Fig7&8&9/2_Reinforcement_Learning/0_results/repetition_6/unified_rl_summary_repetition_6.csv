@@ -1,0 +1,5 @@
+run_id,agent_type,mode_name,delta_value,avg_reward_last_100_ep,max_reward_achieved,avg_spikes_last_100_ep,total_training_time_sec,solved_at_episode,total_episodes_trained
+6,ANN,ANN_Baseline,,329.37,500.0,0.0,141.45975756645203,-1,800
+6,SNN,SNN_Dissipative,10.0,316.04,500.0,12347.800888366923,620.7553451061249,-1,800
+6,SNN,SNN_Expansive,-1.5,381.57,500.0,70255.01464127362,1574.4017314910889,-1,800
+6,SNN,SNN_Tough,2.5,426.99,500.0,21136.188933108075,1055.7391436100006,-1,800
